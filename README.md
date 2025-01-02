@@ -1,4 +1,5 @@
 # CBIO310-CBIO311-Project  VIDEO PRESENTATION: https://shorturl.at/LqTSf
+#COVID-19 and multiple sclerosis (MS) exhibit overlapping molecular mechanisms that may contribute to their disease progression. This study utilized gene expression datasets to identify differentially expressed genes (DEGs) and performed Gene Set Enrichment Analysis (GSEA) to uncover shared pathways.
 #[This documentation will be as concise as possible]
 #1-The GEO2R Accession numbers for the data used: Multiple sclerosis: GSE137143 and SARS-COV2: GSE172114
 #2-Highlighted two groups for each accession number (Control and Sample) to compare their data separately, GEO2R provided most plots, except volcano plot & heatmap which were created using R later.
