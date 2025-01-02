@@ -1,0 +1,139 @@
+"Pasted","Symbol","Ensembl Gene ID","Entrez","Type","Species","Chr","Position (Mbp)","Description","percentage_gc_content","transcript_count","genomeSpan","cds_length","transcript_length","FiveUTR","ThreeUTR","nExons"
+"LINC01259"," LINC01259","ENSG00000249667",106144599,"lncRNA","Human","4",38.509729,"long intergenic non-protein coding RNA 1259 [Source:HGNC Symbol;Acc:HGNC:49899]",42.95,2,8328,NA,811,NA,NA,2
+"LINC00612"," LINC00612","ENSG00000214851",253128,"lncRNA","Human","12",9.055589,"long intergenic non-protein coding RNA 612 [Source:HGNC Symbol;Acc:HGNC:28621]",39.76,2,9482,NA,3134,NA,NA,2
+"A2M-AS1"," A2M-AS1","ENSG00000245105",144571,"lncRNA","Human","12",9.065163,"A2M antisense RNA 1 [Source:HGNC Symbol;Acc:HGNC:27057]",46.3,4,3527,NA,2358,NA,NA,2
+"LINC02312"," LINC02312","ENSG00000258869",100132612,"lncRNA","Human","14",97.749264,"long intergenic non-protein coding RNA 2312 [Source:HGNC Symbol;Acc:HGNC:53231]",42.1,2,14726,NA,1758,NA,NA,2
+"UTS2"," UTS2","ENSG00000049247",10911,"protein_coding","Human","1",7.843083,"urotensin 2 [Source:HGNC Symbol;Acc:HGNC:12636]",40.81,3,10430,405,871,111,507,5
+"IFI44L"," IFI44L","ENSG00000137959",10964,"protein_coding","Human","1",78.619902,"interferon induced protein 44 like [Source:HGNC Symbol;Acc:HGNC:17817]",34.5,18,26244,582,1944,92,860,6
+"IFI44"," IFI44","ENSG00000137965",10561,"protein_coding","Human","1",78.649796,"interferon induced protein 44 [Source:HGNC Symbol;Acc:HGNC:16938]",35.31,9,14283,717,886,46,264,5
+"SH3GLB1"," SH3GLB1","ENSG00000097033",51100,"protein_coding","Human","1",86.70457,"SH3 domain containing GRB2 like, endophilin B1 [Source:HGNC Symbol;Acc:HGNC:10833]",36.11,5,43615,1060,4167,226,3716,8
+"GCLM"," GCLM","ENSG00000023909",2730,"protein_coding","Human","1",93.885199,"glutamate-cysteine ligase modifier subunit [Source:HGNC Symbol;Acc:HGNC:4312]",36.37,4,24258,792,2275,280,2874,5
+"DYRK3"," DYRK3","ENSG00000143479",8444,"protein_coding","Human","1",206.635536,"dual specificity tyrosine phosphorylation regulated kinase 3 [Source:HGNC Symbol;Acc:HGNC:3094]",44.46,6,48884,1226,2917,136,1873,4
+"G0S2"," G0S2","ENSG00000123689",50486,"protein_coding","Human","1",209.675412,"G0/G1 switch 2 [Source:HGNC Symbol;Acc:HGNC:30229]",57.61,1,979,312,876,85,394,2
+"TLR5"," TLR5","ENSG00000187554",7100,"protein_coding","Human","1",223.109404,"toll like receptor 5 [Source:HGNC Symbol;Acc:HGNC:11851]",46.59,8,33845,1886,2044,105,1050,4
+"ADCY3"," ADCY3","ENSG00000138031",109,"protein_coding","Human","2",24.819169,"adenylate cyclase 3 [Source:HGNC Symbol;Acc:HGNC:234]",51.12,13,101069,1775,1905,324,754,10
+"QPCT"," QPCT","ENSG00000115828",25797,"protein_coding","Human","2",37.342827,"glutaminyl-peptide cyclotransferase [Source:HGNC Symbol;Acc:HGNC:9753]",41.29,7,30496,676,898,171,495,5
+"CYP1B1"," CYP1B1","ENSG00000138061",1545,"protein_coding","Human","2",38.066973,"cytochrome P450 family 1 subfamily B member 1 [Source:HGNC Symbol;Acc:HGNC:2597]",44.41,7,42930,1053,1578,140,1370,3
+"EPAS1"," EPAS1","ENSG00000116016",2034,"protein_coding","Human","2",46.293667,"endothelial PAS domain protein 1 [Source:HGNC Symbol;Acc:HGNC:3374]",46.71,10,93031,1696,1403,324,2037,5
+"TGFA"," TGFA","ENSG00000163235",7039,"protein_coding","Human","2",70.447284,"transforming growth factor alpha [Source:HGNC Symbol;Acc:HGNC:11765]",43.95,9,106910,458,1106,162,833,5
+"NAT8"," NAT8","ENSG00000144035",9027,"protein_coding","Human","2",73.640723,"N-acetyltransferase 8 (putative) [Source:HGNC Symbol;Acc:HGNC:18069]",52.06,1,1700,684,1085,90,222,2
+"IL1R2"," IL1R2","ENSG00000115590",7850,"protein_coding","Human","2",101.99196,"interleukin 1 receptor type 2 [Source:HGNC Symbol;Acc:HGNC:5994]",44.63,9,36585,993,935,65,110,5
+"IL1R1"," IL1R1","ENSG00000115594",3554,"protein_coding","Human","2",102.064544,"interleukin 1 receptor type 1 [Source:HGNC Symbol;Acc:HGNC:5993]",41.38,13,115331,843,1774,95,1038,8
+"IL18R1"," IL18R1","ENSG00000115604",8809,"protein_coding","Human","2",102.311529,"interleukin 18 receptor 1 [Source:HGNC Symbol;Acc:HGNC:5988]",39.54,5,87249,1348,2793,166,1382,9
+"GCA"," GCA","ENSG00000115271",25801,"protein_coding","Human","2",162.31884,"grancalcin [Source:HGNC Symbol;Acc:HGNC:15990]",36.25,10,52756,465,1199,135,1078,6
+"SLC40A1"," SLC40A1","ENSG00000138449",30061,"protein_coding","Human","2",189.56059,"solute carrier family 40 member 1 [Source:HGNC Symbol;Acc:HGNC:10909]",38.25,7,23169,527,994,158,1288,5
+"SPATS2L"," SPATS2L","ENSG00000196141",26010,"protein_coding","Human","2",200.305881,"spermatogenesis associated serine rich 2 like [Source:HGNC Symbol;Acc:HGNC:24574]",40.19,27,176384,951,1735,100,1528,8
+"NDUFB3"," NDUFB3","ENSG00000119013",4709,"protein_coding","Human","2",201.071433,"NADH:ubiquinone oxidoreductase subunit B3 [Source:HGNC Symbol;Acc:HGNC:7698]",41.49,7,14318,297,707,142,130,3
+"VWC2L"," VWC2L","ENSG00000174453",402117,"protein_coding","Human","2",214.411054,"von Willebrand factor C domain containing 2 like [Source:HGNC Symbol;Acc:HGNC:37203]",37.47,3,167923,544,3639,404,3207,3
+"PID1"," PID1","ENSG00000153823",55022,"protein_coding","Human","2",228.850526,"phosphotyrosine interaction domain containing 1 [Source:HGNC Symbol;Acc:HGNC:26084]",38.63,6,420762,557,1593,176,1018,3
+"SCN5A"," SCN5A","ENSG00000183873",6331,"protein_coding","Human","3",38.548057,"sodium voltage-gated channel alpha subunit 5 [Source:HGNC Symbol;Acc:HGNC:10593]",50.94,11,101631,5259,5117,63,1764,18
+"CCR1"," CCR1","ENSG00000163823",1230,"protein_coding","Human","3",46.201711,"C-C motif chemokine receptor 1 [Source:HGNC Symbol;Acc:HGNC:1602]",46.69,1,6603,1068,2646,22,1535,2
+"CCRL2"," CCRL2","ENSG00000121797",9034,"protein_coding","Human","3",46.407166,"C-C motif chemokine receptor like 2 [Source:HGNC Symbol;Acc:HGNC:1612]",45.42,7,5832,966,1152,99,409,2
+"GPR27"," GPR27","ENSG00000170837",2850,"protein_coding","Human","3",71.753855,"G protein-coupled receptor 27 [Source:HGNC Symbol;Acc:HGNC:4482]",56.89,1,2642,1128,2642,195,1319,1
+"PROS1"," PROS1","ENSG00000184500",5627,"protein_coding","Human","3",93.873051,"protein S [Source:HGNC Symbol;Acc:HGNC:9456]",38.89,12,106953,1404,2227,158,770,12
+"ZBED2"," ZBED2","ENSG00000177494",79413,"protein_coding","Human","3",111.5929,"zinc finger BED-type containing 2 [Source:HGNC Symbol;Acc:HGNC:20710]",47.49,1,2447,657,2214,456,645,2
+"CSTA"," CSTA","ENSG00000121552",1475,"protein_coding","Human","3",122.325248,"cystatin A [Source:HGNC Symbol;Acc:HGNC:2481]",41.8,2,16722,244,782,38,500,2
+"PLSCR1"," PLSCR1","ENSG00000188313",5359,"protein_coding","Human","3",146.51518,"phospholipid scramblase 1 [Source:HGNC Symbol;Acc:HGNC:9092]",36.3,19,29677,453,902,71,254,6
+"TNFSF10"," TNFSF10","ENSG00000121858",8743,"protein_coding","Human","3",172.505508,"TNF superfamily member 10 [Source:HGNC Symbol;Acc:HGNC:11925]",40.83,6,17968,458,1071,68,776,4
+"FBXL5"," FBXL5","ENSG00000118564",26234,"protein_coding","Human","4",15.604381,"F-box and leucine rich repeat protein 5 [Source:HGNC Symbol;Acc:HGNC:13602]",37.86,13,77299,828,1462,118,758,6
+"BST1"," BST1","ENSG00000109743",683,"protein_coding","Human","4",15.703065,"bone marrow stromal cell antigen 1 [Source:HGNC Symbol;Acc:HGNC:1118]",43.46,5,35249,656,1309,64,574,8
+"FGFBP2"," FGFBP2","ENSG00000137441",83888,"protein_coding","Human","4",15.960245,"fibroblast growth factor binding protein 2 [Source:HGNC Symbol;Acc:HGNC:29451]",45.48,2,9065,672,776,46,194,2
+"HPSE"," HPSE","ENSG00000173083",10855,"protein_coding","Human","4",83.292461,"heparanase [Source:HGNC Symbol;Acc:HGNC:5164]",41.22,9,42693,1245,2277,68,1029,11
+"WDFY3"," WDFY3","ENSG00000163625",23001,"protein_coding","Human","4",84.669597,"WD repeat and FYVE domain containing 3 [Source:HGNC Symbol;Acc:HGNC:20751]",36.91,12,297094,2589,2160,122,3271,10
+"ABCG2"," ABCG2","ENSG00000118777",9429,"protein_coding","Human","4",88.09015,"ATP binding cassette subfamily G member 2 (Junior blood group) [Source:HGNC Symbol;Acc:HGNC:74]",41.38,5,141479,1289,2921,175,2047,11
+"MMRN1"," MMRN1","ENSG00000138722",22915,"protein_coding","Human","4",89.879532,"multimerin 1 [Source:HGNC Symbol;Acc:HGNC:7178]",33.75,4,75098,3429,3554,124,815,7
+"EGF"," EGF","ENSG00000138798",1950,"protein_coding","Human","4",109.912883,"epidermal growth factor [Source:HGNC Symbol;Acc:HGNC:3229]",39.12,13,100884,3414,2026,362,1335,9
+"ACSL1"," ACSL1","ENSG00000151726",2180,"protein_coding","Human","4",184.755595,"acyl-CoA synthetase long chain family member 1 [Source:HGNC Symbol;Acc:HGNC:3569]",44.71,11,71224,1468,2573,97,777,16
+"MYO10"," MYO10","ENSG00000145555",4651,"protein_coding","Human","5",16.661907,"myosin X [Source:HGNC Symbol;Acc:HGNC:7593]",44.1,12,274382,3457,3415,336,2187,15
+"SLC22A4"," SLC22A4","ENSG00000197208",6583,"protein_coding","Human","5",132.294394,"solute carrier family 22 member 4 [Source:HGNC Symbol;Acc:HGNC:10968]",44.99,3,49797,1656,1087,223,355,6
+"HK3"," HK3","ENSG00000160883",3101,"protein_coding","Human","5",176.880869,"hexokinase 3 [Source:HGNC Symbol;Acc:HGNC:4925]",54.27,6,18478,916,1146,53,121,7
+"SERPINB1"," SERPINB1","ENSG00000021355",1992,"protein_coding","Human","6",2.832332,"serpin family B member 1 [Source:HGNC Symbol;Acc:HGNC:3311]",43.07,5,9628,1140,1032,30,1276,5
+"FLOT1"," FLOT1","ENSG00000137312",10211,"protein_coding","Human","6",30.727709,"flotillin 1 [Source:HGNC Symbol;Acc:HGNC:3757]",49.72,12,15024,719,932,65,407,6
+"DDAH2"," DDAH2","ENSG00000213722",23564,"protein_coding","Human","6",31.727038,"dimethylarginine dimethylaminohydrolase 2 [Source:HGNC Symbol;Acc:HGNC:2716]",59.86,10,3580,809,1207,156,192,6
+"DAAM2"," DAAM2","ENSG00000146122",23500,"protein_coding","Human","6",39.792298,"dishevelled associated activator of morphogenesis 2 [Source:HGNC Symbol;Acc:HGNC:18143]",47.6,11,112580,2258,3405,111,1502,13
+"SMPDL3A"," SMPDL3A","ENSG00000172594",10924,"protein_coding","Human","6",122.789049,"sphingomyelin phosphodiesterase acid like 3A [Source:HGNC Symbol;Acc:HGNC:17389]",40.47,3,20672,1166,1474,164,310,6
+"ARG1"," ARG1","ENSG00000118520",383,"protein_coding","Human","6",131.470832,"arginase 1 [Source:HGNC Symbol;Acc:HGNC:663]",38.97,11,113501,738,910,53,294,6
+"VNN1"," VNN1","ENSG00000112299",8876,"protein_coding","Human","6",132.680849,"vanin 1 [Source:HGNC Symbol;Acc:HGNC:12705]",38.11,1,33207,1542,3853,20,2291,7
+"VNN2"," VNN2","ENSG00000112303",8875,"protein_coding","Human","6",132.74387,"vanin 2 [Source:HGNC Symbol;Acc:HGNC:12706]",39.35,16,19590,688,1122,55,232,6
+"STX11"," STX11","ENSG00000135604",8676,"protein_coding","Human","6",144.150487,"syntaxin 11 [Source:HGNC Symbol;Acc:HGNC:11429]",40.95,4,41453,864,3407,77,2325,3
+"RAB32"," RAB32","ENSG00000118508",10981,"protein_coding","Human","6",146.543833,"RAB32, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9772]",38.94,1,11121,678,1065,39,348,3
+"CREB5"," CREB5","ENSG00000146592",9586,"protein_coding","Human","7",28.299321,"cAMP responsive element binding protein 5 [Source:HGNC Symbol;Acc:HGNC:16844]",40.7,15,526574,1012,1560,125,1562,6
+"UPP1"," UPP1","ENSG00000183696",7378,"protein_coding","Human","7",48.088628,"uridine phosphorylase 1 [Source:HGNC Symbol;Acc:HGNC:12576]",48.3,12,20109,380,1191,123,224,7
+"GRB10"," GRB10","ENSG00000106070",2887,"protein_coding","Human","7",50.590063,"growth factor receptor bound protein 10 [Source:HGNC Symbol;Acc:HGNC:4564]",45.52,26,203400,1390,2311,128,1533,11
+"HGF"," HGF","ENSG00000019991",3082,"protein_coding","Human","7",81.69901,"hepatocyte growth factor [Source:HGNC Symbol;Acc:HGNC:4893]",34.42,11,71429,916,1782,88,1105,8
+"NAMPT"," NAMPT","ENSG00000105835",10135,"protein_coding","Human","7",106.248298,"nicotinamide phosphoribosyltransferase [Source:HGNC Symbol;Acc:HGNC:30092]",37.11,49,37669,850,3296,115,1082,8
+"LRRN3"," LRRN3","ENSG00000173114",54674,"protein_coding","Human","7",111.091006,"leucine rich repeat neuronal 3 [Source:HGNC Symbol;Acc:HGNC:17200]",34.94,5,34449,1800,2625,300,554,3
+"MGAM"," MGAM","ENSG00000257335",8972,"protein_coding","Human","7",141.907813,"maltase-glucoamylase [Source:HGNC Symbol;Acc:HGNC:7043]",39.57,9,198935,4079,2838,46,856,21
+"ADAM9"," ADAM9","ENSG00000168615",8754,"protein_coding","Human","8",38.996754,"ADAM metallopeptidase domain 9 [Source:HGNC Symbol;Acc:HGNC:216]",37.5,28,108692,1518,4164,139,690,19
+"STOM"," STOM","ENSG00000148175",2040,"protein_coding","Human","9",121.338987,"stomatin [Source:HGNC Symbol;Acc:HGNC:3383]",39.57,3,31318,582,1757,82,1093,5
+"SRGN"," SRGN","ENSG00000122862",5552,"protein_coding","Human","10",69.088103,"serglycin [Source:HGNC Symbol;Acc:HGNC:9361]",42.48,2,16703,477,1010,55,685,2
+"IFIT2"," IFIT2","ENSG00000119922",3433,"protein_coding","Human","10",89.283694,"interferon induced protein with tetratricopeptide repeats 2 [Source:HGNC Symbol;Acc:HGNC:5409]",42.26,15,25578,1217,2064,128,1427,3
+"IFIT3"," IFIT3","ENSG00000119917",3437,"protein_coding","Human","10",89.327307,"interferon induced protein with tetratricopeptide repeats 3 [Source:HGNC Symbol;Acc:HGNC:5411]",42.34,15,50167,1041,2231,126,1082,3
+"IFIT1"," IFIT1","ENSG00000185745",3434,"protein_coding","Human","10",89.392546,"interferon induced protein with tetratricopeptide repeats 1 [Source:HGNC Symbol;Acc:HGNC:5407]",38.55,2,13942,1390,4458,128,2774,2
+"HHEX"," HHEX","ENSG00000152804",3087,"protein_coding","Human","10",92.689955,"hematopoietically expressed homeobox [Source:HGNC Symbol;Acc:HGNC:4901]",46.36,4,5693,469,1361,247,591,3
+"PKD2L1"," PKD2L1","ENSG00000107593",9033,"protein_coding","Human","10",100.288149,"polycystin 2 like 1, transient receptor potential cation channel [Source:HGNC Symbol;Acc:HGNC:9011]",44.95,4,42116,735,1511,143,179,9
+"CD82"," CD82","ENSG00000085117",3732,"protein_coding","Human","11",44.564427,"CD82 molecule [Source:HGNC Symbol;Acc:HGNC:6210]",53.56,14,55932,416,819,81,908,6
+"MDK"," MDK","ENSG00000110492",4192,"protein_coding","Human","11",46.380756,"midkine [Source:HGNC Symbol;Acc:HGNC:6972]",66.26,12,3082,382,823,125,324,4
+"FOLR3"," FOLR3","ENSG00000110203",2352,"protein_coding","Human","11",72.114869,"folate receptor gamma [Source:HGNC Symbol;Acc:HGNC:3795]",45.32,5,25024,504,658,60,132,4
+"ST3GAL4"," ST3GAL4","ENSG00000110080",6484,"protein_coding","Human","11",126.35564,"ST3 beta-galactoside alpha-2,3-sialyltransferase 4 [Source:HGNC Symbol;Acc:HGNC:10864]",52.01,26,84705,795,1413,137,501,9
+"CD4"," CD4","ENSG00000010610",920,"protein_coding","Human","12",6.786858,"CD4 molecule [Source:HGNC Symbol;Acc:HGNC:1678]",48.56,12,33942,653,1033,103,1008,5
+"SLC2A3"," SLC2A3","ENSG00000059804",6515,"protein_coding","Human","12",7.91923,"solute carrier family 2 member 3 [Source:HGNC Symbol;Acc:HGNC:11007]",44.55,11,16958,688,1434,153,1164,4
+"A2M"," A2M","ENSG00000175899",2,"protein_coding","Human","12",9.067664,"alpha-2-macroglobulin [Source:HGNC Symbol;Acc:HGNC:7]",37.18,13,48566,1356,892,47,95,7
+"PZP"," PZP","ENSG00000126838",5858,"protein_coding","Human","12",9.14884,"PZP alpha-2-macroglobulin like [Source:HGNC Symbol;Acc:HGNC:9750]",38.2,7,59556,2442,1917,39,130,14
+"EMP1"," EMP1","ENSG00000134531",2012,"protein_coding","Human","12",13.196723,"epithelial membrane protein 1 [Source:HGNC Symbol;Acc:HGNC:3333]",44.21,12,23219,302,1146,97,1427,3
+"CD63"," CD63","ENSG00000135404",967,"protein_coding","Human","12",55.725323,"CD63 molecule [Source:HGNC Symbol;Acc:HGNC:1692]",59.18,16,4385,557,769,87,110,6
+"IRAK3"," IRAK3","ENSG00000090376",11213,"protein_coding","Human","12",66.189195,"interleukin 1 receptor associated kinase 3 [Source:HGNC Symbol;Acc:HGNC:17020]",39.98,3,65428,1227,3920,78,2615,8
+"LIN7A"," LIN7A","ENSG00000111052",8825,"protein_coding","Human","12",80.79252,"lin-7 homolog A, crumbs cell polarity complex component [Source:HGNC Symbol;Acc:HGNC:17787]",36.73,4,145415,486,2140,135,1470,5
+"CKAP4"," CKAP4","ENSG00000136026",10970,"protein_coding","Human","12",106.237881,"cytoskeleton associated protein 4 [Source:HGNC Symbol;Acc:HGNC:16991]",44.3,3,66399,944,1508,167,1143,3
+"OASL"," OASL","ENSG00000135114",8638,"protein_coding","Human","12",121.017763,"2'-5'-oligoadenylate synthetase like [Source:HGNC Symbol;Acc:HGNC:8090]",48.4,11,21484,798,1747,88,580,4
+"HCAR3"," HCAR3","ENSG00000255398",8843,"protein_coding","Human","12",122.714756,"hydroxycarboxylic acid receptor 3 [Source:HGNC Symbol;Acc:HGNC:16824]",51.07,1,2056,1164,2056,74,818,1
+"GJB6"," GJB6","ENSG00000121742",10804,"protein_coding","Human","13",20.221962,"gap junction protein beta 6 [Source:HGNC Symbol;Acc:HGNC:4288]",46.22,14,10404,633,1538,121,662,4
+"KL"," KL","ENSG00000133116",9365,"protein_coding","Human","13",33.016423,"klotho [Source:HGNC Symbol;Acc:HGNC:6344]",40.44,2,49721,3039,4114,18,1957,5
+"DACH1"," DACH1","ENSG00000276644",1602,"protein_coding","Human","13",71.437966,"dachshund family transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:2663]",33.94,4,429239,1898,4412,427,2194,10
+"KLF5"," KLF5","ENSG00000102554",688,"protein_coding","Human","13",73.054976,"Kruppel like factor 5 [Source:HGNC Symbol;Acc:HGNC:6349]",38.99,5,22566,1238,1636,210,1654,3
+"TNFSF13B"," TNFSF13B","ENSG00000102524",10673,"protein_coding","Human","13",108.25124,"TNF superfamily member 13b [Source:HGNC Symbol;Acc:HGNC:11929]",34.84,6,57245,718,1204,222,1543,4
+"RNASE2"," RNASE2","ENSG00000169385",6036,"protein_coding","Human","14",20.955487,"ribonuclease A family member 2 [Source:HGNC Symbol;Acc:HGNC:10045]",47.16,1,950,486,720,28,179,2
+"GZMH"," GZMH","ENSG00000100450",2999,"protein_coding","Human","14",24.60648,"granzyme H [Source:HGNC Symbol;Acc:HGNC:4710]",52.14,3,3220,524,714,71,120,4
+"PYGL"," PYGL","ENSG00000100504",5836,"protein_coding","Human","14",50.857891,"glycogen phosphorylase L [Source:HGNC Symbol;Acc:HGNC:9725]",42.37,7,86593,2482,1645,71,182,10
+"AQP9"," AQP9","ENSG00000103569",366,"protein_coding","Human","15",58.138169,"aquaporin 9 [Source:HGNC Symbol;Acc:HGNC:643]",40.63,4,47743,823,1894,156,1028,5
+"AP3B2"," AP3B2","ENSG00000103723",8120,"protein_coding","Human","15",82.659281,"adaptor related protein complex 3 subunit beta 2 [Source:HGNC Symbol;Acc:HGNC:567]",49,42,50832,1731,3118,158,516,18
+"PRSS33"," PRSS33","ENSG00000103355",260429,"protein_coding","Human","16",2.783953,"serine protease 33 [Source:HGNC Symbol;Acc:HGNC:30405]",63.36,5,3996,717,1502,125,796,6
+"SMPD3"," SMPD3","ENSG00000103056",55512,"protein_coding","Human","16",68.358327,"sphingomyelin phosphodiesterase 3 [Source:HGNC Symbol;Acc:HGNC:14240]",51.02,12,90182,1346,1314,117,1041,4
+"HPR"," HPR","ENSG00000261701",3250,"protein_coding","Human","16",72.063148,"haptoglobin-related protein [Source:HGNC Symbol;Acc:HGNC:5156]",44.9,4,14099,512,1006,55,227,5
+"SEMA6B"," SEMA6B","ENSG00000167680",10501,"protein_coding","Human","19",4.542593,"semaphorin 6B [Source:HGNC Symbol;Acc:HGNC:10739]",56.56,5,39184,2054,2859,100,781,14
+"OSM"," OSM","ENSG00000099985",5008,"protein_coding","Human","22",30.262829,"oncostatin M [Source:HGNC Symbol;Acc:HGNC:8506]",60.33,3,4023,506,1110,79,477,3
+"CARD10"," CARD10","ENSG00000100065",29775,"protein_coding","Human","22",37.490362,"caspase recruitment domain family member 10 [Source:HGNC Symbol;Acc:HGNC:16422]",57.09,10,29181,2092,1984,147,796,10
+"SAT1"," SAT1","ENSG00000130066",6303,"protein_coding","Human","X",23.783173,"spermidine/spermine N1-acetyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:10540]",43.78,8,3038,388,882,171,267,4
+"FLOT1"," FLOT1","ENSG00000206480",10211,"protein_coding","Human","CHR_HSCHR6_MHC_QBL_CTG1",30.717229,"flotillin 1 [Source:HGNC Symbol;Acc:HGNC:3757]",49.69,12,15022,719,935,68,407,6
+"FLOT1"," FLOT1","ENSG00000232280",10211,"protein_coding","Human","CHR_HSCHR6_MHC_COX_CTG1",30.717565,"flotillin 1 [Source:HGNC Symbol;Acc:HGNC:3757]",49.65,12,15028,719,935,68,407,6
+"FLOT1"," FLOT1","ENSG00000206379",10211,"protein_coding","Human","CHR_HSCHR6_MHC_DBB_CTG1",30.717966,"flotillin 1 [Source:HGNC Symbol;Acc:HGNC:3757]",49.72,12,15026,719,935,68,407,6
+"FLOT1"," FLOT1","ENSG00000230143",10211,"protein_coding","Human","CHR_HSCHR6_MHC_SSTO_CTG1",30.71996,"flotillin 1 [Source:HGNC Symbol;Acc:HGNC:3757]",49.72,12,15035,719,936,68,407,6
+"FLOT1"," FLOT1","ENSG00000236271",10211,"protein_coding","Human","CHR_HSCHR6_MHC_MANN_CTG1",30.772367,"flotillin 1 [Source:HGNC Symbol;Acc:HGNC:3757]",53.48,17,15025,459,679,68,407,5
+"FLOT1"," FLOT1","ENSG00000223654",10211,"protein_coding","Human","CHR_HSCHR6_MHC_APD_CTG1",30.791619,"flotillin 1 [Source:HGNC Symbol;Acc:HGNC:3757]",48.84,2,2795,271,678,NA,407,3
+"FLOT1"," FLOT1","ENSG00000224740",10211,"protein_coding","Human","CHR_HSCHR6_MHC_MCF_CTG1",30.806191,"flotillin 1 [Source:HGNC Symbol;Acc:HGNC:3757]",48.69,12,13831,546,641,NA,407,4
+"DDAH2"," DDAH2","ENSG00000227317",23564,"protein_coding","Human","CHR_HSCHR6_MHC_DBB_CTG1",31.709206,"dimethylarginine dimethylaminohydrolase 2 [Source:HGNC Symbol;Acc:HGNC:2716]",59.86,10,3580,754,1184,255,189,6
+"DDAH2"," DDAH2","ENSG00000226634",23564,"protein_coding","Human","CHR_HSCHR6_MHC_COX_CTG1",31.714445,"dimethylarginine dimethylaminohydrolase 2 [Source:HGNC Symbol;Acc:HGNC:2716]",59.89,10,3580,754,1184,255,189,6
+"DDAH2"," DDAH2","ENSG00000206395",23564,"protein_coding","Human","CHR_HSCHR6_MHC_QBL_CTG1",31.717256,"dimethylarginine dimethylaminohydrolase 2 [Source:HGNC Symbol;Acc:HGNC:2716]",59.89,10,3580,754,1184,255,189,6
+"DDAH2"," DDAH2","ENSG00000228128",23564,"protein_coding","Human","CHR_HSCHR6_MHC_SSTO_CTG1",31.717799,"dimethylarginine dimethylaminohydrolase 2 [Source:HGNC Symbol;Acc:HGNC:2716]",59.89,10,3580,754,1184,255,189,6
+"DDAH2"," DDAH2","ENSG00000233076",23564,"protein_coding","Human","CHR_HSCHR6_MHC_MANN_CTG1",31.766492,"dimethylarginine dimethylaminohydrolase 2 [Source:HGNC Symbol;Acc:HGNC:2716]",59.92,10,3580,754,1184,255,189,6
+"DDAH2"," DDAH2","ENSG00000225635",23564,"protein_coding","Human","CHR_HSCHR6_MHC_MCF_CTG1",31.80332,"dimethylarginine dimethylaminohydrolase 2 [Source:HGNC Symbol;Acc:HGNC:2716]",59.89,10,3580,754,1184,255,189,6
+"XK"," XK","ENSG00000047597",7504,"protein_coding","Human","X",37.685791,"X-linked Kx blood group [Source:HGNC Symbol;Acc:HGNC:12811]",39.51,1,46340,1335,5174,171,3668,3
+"ADAM9"," ADAM9","ENSG00000282230",8754,"protein_coding","Human","CHR_HSCHR8_9_CTG1",39.101863,"ADAM metallopeptidase domain 9 [Source:HGNC Symbol;Acc:HGNC:216]",33.58,5,3282,162,1273,NA,1301,2
+"MGAM"," MGAM","ENSG00000282607",8972,"protein_coding","Human","CHR_HSCHR7_2_CTG6",142.038524,"maltase-glucoamylase [Source:HGNC Symbol;Acc:HGNC:7043]",39.95,4,68224,4690,3006,NA,856,22
+"PNMA3"," PNMA3","ENSG00000183837",29944,"protein_coding","Human","X",153.056409,"PNMA family member 3 [Source:HGNC Symbol;Acc:HGNC:18742]",60.7,3,4059,1384,3489,146,1563,3
+"TRAJ25"," TRAJ25","ENSG00000211864",NA,"TR_J_gene","Human","14",22.518812,"T cell receptor alpha joining 25 (non-functional) [Source:HGNC Symbol;Acc:HGNC:12054]",50,1,60,60,60,NA,NA,1
+"TRBV6-4"," TRBV6-4","ENSG00000211713",NA,"TR_V_gene","Human","7",142.380806,"T cell receptor beta variable 6-4 [Source:HGNC Symbol;Acc:HGNC:12229]",51.75,1,456,344,365,21,NA,2
+"TRBV6-8"," TRBV6-8","ENSG00000253534",NA,"TR_V_gene","Human","7",142.507382,"T cell receptor beta variable 6-8 [Source:HGNC Symbol;Acc:HGNC:12233]",54.08,1,429,341,341,NA,NA,2
+"TRAV19"," TRAV19","ENSG00000211799",NA,"TR_V_gene","Human","14",22.007512,"T cell receptor alpha variable 19 [Source:HGNC Symbol;Acc:HGNC:12115]",45.07,1,670,350,467,117,NA,2
+"TRBV6-4"," TRBV6-4","ENSG00000282240",NA,"TR_V_gene","Human","CHR_HSCHR7_2_CTG6",142.402503,"T cell receptor beta variable 6-4 [Source:HGNC Symbol;Acc:HGNC:12229]",51.54,1,456,344,365,21,NA,2
+"TRBV6-8"," TRBV6-8","ENSG00000282134",NA,"TR_V_gene","Human","CHR_HSCHR7_2_CTG6",142.529032,"T cell receptor beta variable 6-8 [Source:HGNC Symbol;Acc:HGNC:12233]",54.75,1,495,341,407,66,NA,2
+"A2MP1"," A2MP1","ENSG00000256069",3,"transcribed_unprocessed_pseudogene","Human","12",9.228533,"alpha-2-macroglobulin pseudogene 1 [Source:HGNC Symbol;Acc:HGNC:8]",37.03,4,47285,NA,1715,NA,NA,13
+"CYP4F29P"," CYP4F29P","ENSG00000228314",54055,"transcribed_unprocessed_pseudogene","Human","21",13.843133,"cytochrome P450 family 4 subfamily F member 29, pseudogene [Source:HGNC Symbol;Acc:HGNC:2647]",50.65,3,5232,NA,783,NA,NA,4
+"GK3",NA,"Not mapped",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"LOC101929216",NA,"Not mapped",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"LOC105370844",NA,"Not mapped",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"LOC105373282",NA,"Not mapped",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"LOC105374810",NA,"Not mapped",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"LOC105375347",NA,"Not mapped",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"LOC107987219",NA,"Not mapped",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"LOC107987267",NA,"Not mapped",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
